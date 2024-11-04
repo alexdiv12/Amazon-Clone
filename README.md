@@ -1,6 +1,7 @@
 # Amazon Clone
 
 This project is a clone of the Amazon website's homepage, implemented using HTML and CSS.
+https://alexdiv12.github.io/Amazon-Clone/
 
 ## Features
 
